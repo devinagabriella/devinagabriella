@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+My name is Devina and I am currently pursuing my degree in Master of Financial Mathematics at Monash University, I am interested in all things financial market and Python!
+
+- 🔭 I’m currently working on implementing stochastic models for option pricing in Python 
+- 🌱 I’m currently learning machine learning and MQL4
+- 👯 I’m looking to collaborate on ...
+- ⚡ Fun fact: I like road trips!
 <!--
 **devinagabriella/devinagabriella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
