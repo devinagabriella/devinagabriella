@@ -4,7 +4,7 @@ My name is Devina and I am currently pursuing my degree in Master of Financial M
 
 - 🔭 I’m currently working on implementing stochastic models for option pricing in Python 
 - 🌱 I’m currently learning machine learning and MQL4
-- ⚡ Fun fact: I like road trips!
+- ⚡ Fun fact: I love road trips!
 <!--
 **devinagabriella/devinagabriella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
